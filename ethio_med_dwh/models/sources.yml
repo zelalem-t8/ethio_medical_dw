@@ -1,0 +1,8 @@
+version: 2
+
+sources:
+  - name: raw
+    schema: public
+    tables:
+      - name: raw_telegram_messages
+      - name: raw_object_detections

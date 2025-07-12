@@ -3,3 +3,6 @@ pandas
 requests
 pillow
 telethon
+dbt-postgres
+sqlalchemy
+psycopg2-binary

@@ -6,3 +6,5 @@ telethon
 dbt-postgres
 sqlalchemy
 psycopg2-binary
+fastapi
+uvicorn 

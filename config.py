@@ -7,4 +7,9 @@ CHANNELS = [
     'lobelia4cosmetics',
     'EAHCI'
 ]
+DB_NAME = "medical"
+DB_USER = "postgres"
+DB_PASSWORD = "root"
+DB_HOST = "localhost"
+DB_PORT = "5432"
    
